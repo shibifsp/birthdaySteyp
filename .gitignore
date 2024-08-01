@@ -1,0 +1,36 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE directories
+.vscode/
+.idea/
+
+# Ignore specific files and directories
+.bash_history
+.cache/
+.eclipse/
+.gitconfig
+.p2/
+AppData/
+Contacts/
+Creative Cloud Files*/
+Desktop/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+eclipse-workspace/
+
+
