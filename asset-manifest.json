@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shibifsp.github.io/birthdayList/static/css/main.b826dc35.css",
+    "main.js": "/shibifsp.github.io/birthdayList/static/js/main.533cc723.js",
+    "static/js/453.9c2b4894.chunk.js": "/shibifsp.github.io/birthdayList/static/js/453.9c2b4894.chunk.js",
+    "static/media/baloopaaji2-regular-webfont.woff": "/shibifsp.github.io/birthdayList/static/media/baloopaaji2-regular-webfont.bb705e2d849cbf1882cd.woff",
+    "static/media/baloopaaji2-bold-webfont.woff": "/shibifsp.github.io/birthdayList/static/media/baloopaaji2-bold-webfont.9cae5c1a51634e1bfb26.woff",
+    "static/media/1.png": "/shibifsp.github.io/birthdayList/static/media/1.1fb866309bc9e5b787a9.png",
+    "static/media/2.png": "/shibifsp.github.io/birthdayList/static/media/2.57b722689ebe315bed1d.png",
+    "static/media/4.png": "/shibifsp.github.io/birthdayList/static/media/4.81c163cab1b3165190a6.png",
+    "static/media/baloopaaji2-regular-webfont.woff2": "/shibifsp.github.io/birthdayList/static/media/baloopaaji2-regular-webfont.b7eeaad706130604d0e7.woff2",
+    "static/media/baloopaaji2-bold-webfont.woff2": "/shibifsp.github.io/birthdayList/static/media/baloopaaji2-bold-webfont.a23a77d68ef25547f5a5.woff2",
+    "static/media/5.png": "/shibifsp.github.io/birthdayList/static/media/5.01a1b62c1bd2f727c0b3.png",
+    "static/media/3.png": "/shibifsp.github.io/birthdayList/static/media/3.ed28b61cef92bd7e29cd.png",
+    "index.html": "/shibifsp.github.io/birthdayList/index.html",
+    "main.b826dc35.css.map": "/shibifsp.github.io/birthdayList/static/css/main.b826dc35.css.map",
+    "main.533cc723.js.map": "/shibifsp.github.io/birthdayList/static/js/main.533cc723.js.map",
+    "453.9c2b4894.chunk.js.map": "/shibifsp.github.io/birthdayList/static/js/453.9c2b4894.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b826dc35.css",
+    "static/js/main.533cc723.js"
+  ]
+}
